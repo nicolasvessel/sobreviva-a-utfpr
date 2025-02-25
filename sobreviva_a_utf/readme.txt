@@ -1,3 +1,7 @@
+COMO JOGAR:
+Para selecionar as opções dentro das salas, pressione o número e ENTER, demais opções com setas e ENTER. 
+
+
 REQUISITOS:
 
 MINGW x64
