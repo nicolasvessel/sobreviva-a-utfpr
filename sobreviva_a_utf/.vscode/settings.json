@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "recursos.h": "c",
-        "ncurses.h": "c",
-        "musica.h": "c"
-    },
-    "makefile.configureOnOpen": true,
-    "C_Cpp.errorSquiggles": "disabled"
-}
