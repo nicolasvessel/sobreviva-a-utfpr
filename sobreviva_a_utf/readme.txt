@@ -5,7 +5,7 @@ Para selecionar as opções dentro das salas, pressione o número e ENTER, demai
 REQUISITOS:
 
 MINGW x64
-TESTANDO APENAS NO WINDOWS 10
+TESTADO APENAS NO WINDOWS 10
 
 
 COMPILANDO:
